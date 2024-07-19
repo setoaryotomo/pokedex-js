@@ -1,2 +1,2 @@
 # pokedex-js
-"Pokedex Vanilla HTML CSS Javascript"
+"Pokedex Vanilla HTML CSS Javascript.."
